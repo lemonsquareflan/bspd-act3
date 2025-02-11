@@ -43,4 +43,4 @@ jobs:
 
     - name: push to docker hub
       run: |
-        docker push leiabarra679/myflask-app:latest .
+        docker push leiabarra679/myflask-app:latest
